@@ -1,0 +1,62 @@
+{
+  "x": [
+    {
+      "idNation": "5tyuio",
+      "nation": "USA",
+      "idYear": 2022,
+      "year": "2345",
+      "population": 345678,
+      "slugNation": "sdfghj"
+    },
+    {
+      "idNation": "5tyuio",
+      "nation": "USA",
+      "idYear": 2022,
+      "year": "2345",
+      "population": 345678,
+      "slugNation": "sdfghj"
+    },
+    {
+      "idNation": "5tyuio",
+      "nation": "USA",
+      "idYear": 2022,
+      "year": "2345",
+      "population": 345678,
+      "slugNation": "sdfghj"
+    },
+    {
+      "idNation": "5tyuio",
+      "nation": "USA",
+      "idYear": 2022,
+      "year": "2345",
+      "population": 345678,
+      "slugNation": "sdfghj"
+    }
+  ],
+  "g": [
+    {
+      "idNation": "5tyuio",
+      "nation": "USA",
+      "idYear": 2022,
+      "year": "2345",
+      "population": 345678,
+      "slugNation": "sdfghj"
+    },
+    {
+      "idNation": "5tyuio",
+      "nation": "USA",
+      "idYear": 2022,
+      "year": "2345",
+      "population": 345678,
+      "slugNation": "sdfghj"
+    },
+    {
+      "idNation": "5tyuio",
+      "nation": "USA",
+      "idYear": 2022,
+      "year": "2345",
+      "population": 345678,
+      "slugNation": "sdfghj"
+    }
+  ]
+}
